@@ -1,0 +1,3 @@
+This release fixes several issues around:
+
+* Fix issue with sbt 0.13.8

@@ -8,7 +8,7 @@ versionWithGit
 
 //version := "0.4.1-LOCAL"
 
-git.baseVersion := "0.4.1"
+git.baseVersion := "0.4.2"
 
 resolvers += "sonatype-releases" at "https://oss.sonatype.org/service/local/repositories/releases/content/"
 
