@@ -15,7 +15,7 @@ Build and install the project
 
 Add this to your `~/.sbt/0.13/plugins/plugins.sbt`:
 
-    addSbtPlugin("com.dscleaver.sbt" % "sbt-quickfix" % "0.4.2")
+    addSbtPlugin("com.dscleaver.sbt" % "sbt-quickfix" % "0.4.2-f3e75827c628dbd98ca3c86fc4eeba556d17bc05")
 
 *Note: this plugin was built for sbt 0.13 use version 0.3.1 for sbt 0.12*
 
