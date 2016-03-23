@@ -1,13 +1,10 @@
 sbtPlugin := true
 
-name := "sbt-quickfix"
-
 organization := "com.dscleaver.sbt"
+name := "sbt-quickfix"
+version := "0.4.2"
 
 scalaVersion := "2.10.5"
-
-enablePlugins(GitVersioning)
-git.baseVersion := "0.4.2"
 
 scalacOptions += "-unchecked"
 
